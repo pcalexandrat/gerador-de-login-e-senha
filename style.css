@@ -15,4 +15,14 @@
 body {
 background-color: var(--cor-de-fundo);
 color:var(--branco);
+font-family: var(--roboto-family);
+}
+
+.titulo-principal {
+    font-family: var(--roboto-family);
+}
+
+.titulo-secundario {
+    font-family: var(--roboto-mono);
+    
 }
